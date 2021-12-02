@@ -1,0 +1,13 @@
+<main class="page">
+            <div class="overlay"></div>
+            <nav class="header" role="navigation">
+                <a class="logo__wrapper" href="/">
+                    <img src="https://static-assets.bamgrid.com/product/disneyplus/images/logo.1a56f51c764022ee769c91d894d44326.svg" class="logo">
+                </a>
+            </nav>
+            <div class="content">
+                <div class="content__title">The page you were looking for cannot be found.</div>
+                <div class="content__body">Please go to the Disney+ home page by clicking the button below</div>
+                <a class="button" href="/"><span>Disney+ Home</span></a>
+            </div>
+        </main>
